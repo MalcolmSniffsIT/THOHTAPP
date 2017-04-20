@@ -26,3 +26,7 @@ In order to create a cross-platform mobile application using xamarin-form, we ha
     i- Templated entries are $"[TLUserLN], [TLUserFN] donated $20 to THOTH Labs"
     ii- Allow user overwrite template, and overwrite the entry to database
     iii- Prompt user to share app to a friend.
+    
+    :-),
+    
+ MalcolmStiffsIT
