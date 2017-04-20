@@ -1,4 +1,4 @@
-=# THOHTAPP
+#THOTHLabsAPP
 
 ABOUTME: 
 I am Malcolm Price. I am the Founder and CEO of THOTH LABS. It's a Liberal Arts & STEM Lab for the Holistic -"ADHD"- Researchers. We are a small startup, and we respect all walks of life.
